@@ -92,7 +92,7 @@ Figure 3: An image showing locally decrypted data retrieved from the blockchain 
 
 # ACKNOWLEDGEMENT
 
-This research was supported by Government Engineering College, Raipur and We are thankful to our guide Asst. Prof. Priyanka Sahu who provided expertise that greatly assisted the research.
+This research was supported by Pranveer Singh Institute of Technology, Kanpur and We are thankful to our guide Asst. Prof. Ms. Nikita Tiwari who provided expertise that greatly assisted the research.
 
 # REFERENCES
 
